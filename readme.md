@@ -25,6 +25,7 @@ Feel free to connect with me or reach out if you'd like to discuss opportunities
   <td width="60%">
     <p align="center">
       <img width="50px" src="https://skillicons.dev/icons?i=kotlin" />
+      <img width="50px" src="https://skillicons.dev/icons?i=java" />
       <img width="50px" src="https://skillicons.dev/icons?i=python" />
       <img width="50px" src="https://skillicons.dev/icons?i=typescript" />
       <img width="50px" src="https://skillicons.dev/icons?i=javascript" />
@@ -32,6 +33,7 @@ Feel free to connect with me or reach out if you'd like to discuss opportunities
     </p>
     <p align="center">
     <img width="50px" src="https://skillicons.dev/icons?i=flask" />
+    <img width="50px" src="https://skillicons.dev/icons?i=spring" />
       <img width="50px" src="https://skillicons.dev/icons?i=nodejs" />
       <img width="50px" src="https://skillicons.dev/icons?i=nestjs" />
       <img width="50px" src="https://skillicons.dev/icons?i=prisma" />
